@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.line-color{
+    border-left: 5px solid red;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.stay-focus{
+    display: flex;
+}
+.half-width{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-color: orange;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.Mission{
+    display: flex;
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.global-img img{
+    width: 600px;
+}
+.global{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 5%;
+}
+.Develop{
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.Vission{
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px grey;
+}
+.Vission img{
+    width: 100%;
+}
+.corona{
+    display: flex;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.corona-img img{
+    width: 400px;
+}
+.corona-text{
+    padding-right: 10%;
+}
+.Develop-img img{
+    width: 100%;
+}
+.Develop-text{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.mission-2022{
+    text-align: center;
+    background-color: grey;
+}
